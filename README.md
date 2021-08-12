@@ -1,1 +1,1 @@
-# App Ranks Data (daily)
+# App Ranks Data from Appannie (daily)
